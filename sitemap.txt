@@ -1,0 +1,3 @@
+http://example.com/2023/05/25/newpapername/
+http://example.com/2023/05/25/hello-world/
+http://example.com/
